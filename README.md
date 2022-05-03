@@ -1,4 +1,19 @@
 # MyCardSwiftUI
-A simple business card on SwiftUI
 
-![Снимок экрана 2022-04-26 в 17 45 30](https://user-images.githubusercontent.com/63203835/165327085-5ee69c7d-073a-414d-96ca-2db367396e79.png)
+## Оглавление
+- **[Описание](#Description)**
+- **[Презентация](#Presentation)**
+
+## <a id="Description"></a>Описание
+Визитная карточка на SwiftUI. Учебный проект.
+
+Простой проект на один экран, поля "телефон" и "email" не кликабельны. Написан с целью первичного ознакомления со SwiftUI.
+___
+
+## <a id="Presentation"></a>Презентация
+### Основной экран
+![Main Screen](Documentation/MainScreen.png)
+
+___
+
+
